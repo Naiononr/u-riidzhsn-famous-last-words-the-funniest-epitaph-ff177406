@@ -8,10 +8,10 @@ The line is a fixed string in the source.
 import os
 import tempfile
 
-LINE = "Here lies a man who said 'one more episode'."
+LINE = "Here lies a man who said 'watch me' — and we did."
 
 # The gate for this bounty: /output/entry.txt must be UTF-8 text of 1 to
-# 150 characters, not only white space. The line is 44 characters, one
+# 150 characters, not only white space. The line is 49 characters, one
 # line, no trailing newline — validated below before every write so a
 # future edit that breaks the gate fails loudly instead of submitting
 # an invalid entry.

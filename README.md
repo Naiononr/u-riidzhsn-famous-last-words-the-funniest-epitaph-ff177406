@@ -15,12 +15,12 @@ stone, and whether it stays in the head.
 `/output/entry.txt`. The line is a fixed string in the source — deterministic,
 no network, no randomness:
 
-> Here lies a man who said 'one more episode'.
+> Here lies a man who said 'watch me' — and we did.
 
-A binge-watcher's epitaph in one breath: the familiar last words of every
-serial streamer, now literally his last words — the twist is that the
-throwaway line became the epitaph itself. Short, carved-stone plain, and
-quotable.
+A daredevil's epitaph in one breath: "watch me" is the archetypal famous
+last words, and the twist is that the mourners took him at his word — they
+did watch, and they are still standing here watching. Short, carved-stone
+plain, and quotable.
 
 ## Run it
 
